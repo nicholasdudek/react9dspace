@@ -3,10 +3,7 @@
 A practice project for learning React with complex state management through a 9-dimensional data structure.
 
 < 
-    src="https://nicholasdudek.github.io/react9dspace/" 
-    width="100%" 
-    height="600px" 
-    title="React 9D Space Demo"
+    src="https://nicholasdudek.github.io/react9dspace/
 >
   
 ## Features
